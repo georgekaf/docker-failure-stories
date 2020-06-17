@@ -3,8 +3,7 @@
 A compiled list of links to public failure stories related to Docker.
 Most recent publications on top.
 
-* [Docker in Production: A History of Failure
-- 1 NOVEMBER 2016](https://thehftguy.com/2016/11/01/docker-in-production-an-history-of-failure/)
+* [Docker in Production: A History of Failure - 1 NOVEMBER 2016](https://thehftguy.com/2016/11/01/docker-in-production-an-history-of-failure/)
     * involved: 
     * impact: production issues
 
